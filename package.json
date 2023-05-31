@@ -11,6 +11,7 @@
   },
   "devDependencies": {
     "@sveltejs/adapter-auto": "^2.0.0",
+    "@sveltejs/adapter-netlify": "^1.0.0-next.88",
     "@sveltejs/adapter-static": "^2.0.1",
     "@sveltejs/kit": "^1.5.0",
     "autoprefixer": "^10.4.7",
@@ -26,7 +27,7 @@
   },
   "type": "module",
   "dependencies": {
-    "preline": "^1.7.0",
-    "svelte-preprocess-import-assets": "^0.2.6"
+    "svelte-preprocess-import-assets": "^0.2.6",
+    "tailwindcss-animated": "^1.0.0"
   }
 }

@@ -1,74 +1,56 @@
-<!-- Features -->
-<div class="max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
-  <div class="relative p-10 md:p-16">
-    <!-- Grid -->
-    <div class="relative z-10 lg:grid lg:grid-cols-12 lg:gap-16 lg:items-center">
-      <div class="mb-10 lg:mb-0 lg:col-span-6 lg:col-start-8 lg:order-2">
-        <h2 class="text-3xl text-gray-800 font-bold sm:text-4xl dark:text-gray-200">
-          Ukážka našej práce
-        </h2>
+<div class="relative z-10 max-w-[85rem] px-4 py-4 sm:px-6 lg:px-8 mx-auto mt-6">
+  <div class="p-4 lg:p-8 rounded-md">
+    <h2 class="block text-2xl font-bold text-gray-800 sm:text-3xl lg:text-4xl lg:leading-tight dark:text-white text-center mb-8 lg:mb-12">Čomu sa <span class="border-solid border-b-[6px] border-blue-500">venujeme</span></h2>
 
-        <!-- Tab Navs -->
-        <nav class="grid gap-4 mt-5 md:mt-10" aria-label="Tabs" role="tablist">
-          <button type="button" class="hs-tab-active:bg-white hs-tab-active:shadow-md hs-tab-active:hover:border-transparent text-left hover:bg-gray-200 p-4 md:p-5 rounded-xl dark:hs-tab-active:bg-slate-900 dark:hover:bg-gray-700 active" id="tabs-with-card-item-1" data-hs-tab="#tabs-with-card-1" aria-controls="tabs-with-card-1" role="tab">
-            <span class="flex">
-              <span class="grow ml-6">
-                <span class="block text-xl font-semibold hs-tab-active:text-blue-600 text-gray-800 dark:hs-tab-active:text-blue-500 dark:text-gray-200">Oprava a starostlivosť o kovanie</span>
-                <span class="block mt-1 text-gray-800 dark:hs-tab-active:text-gray-200 dark:text-gray-200">Najdôležitejší komponent v okne. Bez pravidelnej starostlivosti <span class="font-semibold">riskujete záruku a živostnosť</span> okna.</span>
-              </span>
-            </span>
-          </button>
+    <div class="grid gap-8 lg:gap-12 lg:grid-cols-2">
 
-          <button type="button" class="hs-tab-active:bg-white hs-tab-active:shadow-md hs-tab-active:hover:border-transparent text-left hover:bg-gray-200 p-4 md:p-5 rounded-xl dark:hs-tab-active:bg-slate-900 dark:hover:bg-gray-700" id="tabs-with-card-item-2" data-hs-tab="#tabs-with-card-2" aria-controls="tabs-with-card-2" role="tab">
-            <span class="flex">
-              <span class="grow ml-6">
-                <span class="block text-xl font-semibold hs-tab-active:text-blue-600 text-gray-800 dark:hs-tab-active:text-blue-500 dark:text-gray-200">Výmena tesnenia</span>
-                <span class="block mt-1 text-gray-800 dark:hs-tab-active:text-gray-200 dark:text-gray-200">Doprajte si pokoj od neustáleho <span class="font-semibold">prefukovania a rušivých zvukov z vonku</span>. Aj tesnenie má svoju živostnosť.</span>
-              </span>
-            </span>
-          </button>
-
-          <button type="button" class="hs-tab-active:bg-white hs-tab-active:shadow-md hs-tab-active:hover:border-transparent text-left hover:bg-gray-200 p-4 md:p-5 rounded-xl dark:hs-tab-active:bg-slate-900 dark:hover:bg-gray-700" id="tabs-with-card-item-3" data-hs-tab="#tabs-with-card-3" aria-controls="tabs-with-card-3" role="tab">
-            <span class="flex">
-              <span class="grow ml-6">
-                <span class="block text-xl font-semibold hs-tab-active:text-blue-600 text-gray-800 dark:hs-tab-active:text-blue-500 dark:text-gray-200">Powerful features</span>
-                <span class="block mt-1 text-gray-800 dark:hs-tab-active:text-gray-200 dark:text-gray-200">Reduce time and effort on building modern look design with Preline only.</span>
-              </span>
-            </span>
-          </button>
-        </nav>
-        <!-- End Tab Navs -->
-      </div>
-      <!-- End Col -->
-
-      <div class="lg:col-span-6">
-        <div class="relative">
-          <!-- Tab Content -->
-          <div>
-            <div id="tabs-with-card-1" class="hidden" role="tabpanel" aria-labelledby="tabs-with-card-item-1">
-              <img class="shadow-xl shadow-gray-200 rounded-xl dark:shadow-gray-900/[.2]" src="https://images.unsplash.com/photo-1665686306574-1ace09918530?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&h=1220&q=80" alt="Image Description">
-            </div>
-
-            <div id="tabs-with-card-2" class="hidden" role="tabpanel" aria-labelledby="tabs-with-card-item-2">
-              <img class="shadow-xl shadow-gray-200 rounded-xl dark:shadow-gray-900/[.2]" src="https://images.unsplash.com/photo-1665686306574-1ace09918530?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&h=1220&q=80" alt="Image Description">
-            </div>
-
-            <div id="tabs-with-card-3" class="hidden" role="tabpanel" aria-labelledby="tabs-with-card-item-3">
-              <img class="shadow-xl shadow-gray-200 rounded-xl dark:shadow-gray-900/[.2]" src="https://images.unsplash.com/photo-1598929213452-52d72f63e307?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&h=1220&q=80" alt="Image Description">
-            </div>
-          </div>
-          <!-- End Tab Content -->
+      <div class="bg-slate-100 max-w-lg rounded-xl mx-auto flex flex-col">
+        <div class="p-8 lg:p-12 flex-grow">
+          <h3 class="text-xl sm:text-2xl lg:text-3xl font-semibold">Montáž žalúzií a sieťok</h3>
+          <p class="text-md lg:text-lg mt-2">
+            Od dverových sieťok s otvorom pre psa až po vertikálne žalúzie, vieme Vám tieto doplnky rýchlo a v <b>dobrej kvalite</b> zabezpečiť vrátane ich <b>servisu</b>.
+          </p>
+        </div>
+        <div class="flex">
+          <img class="object-cover w-full h-52 rounded-md rounded-t-none" src="$lib/images/work_preview/sietka.jpg" alt="Sieť proti hmyzu">
         </div>
       </div>
-      <!-- End Col -->
-    </div>
-    <!-- End Grid -->
 
-    <!-- Background Color -->
-    <div class="absolute inset-0 grid grid-cols-12 w-full h-full">
-      <div class="col-span-full lg:col-span-7 lg:col-start-6 bg-blue-50 w-full h-5/6 rounded-xl sm:h-3/4 lg:h-full dark:bg-white/[.075]"></div>
+      <div class="bg-slate-100 max-w-lg rounded-xl mx-auto flex flex-col">
+        <div class="p-8 lg:p-12 flex-grow">
+          <h3 class="text-xl sm:text-2xl lg:text-3xl font-semibold">Výmena častí kovania</h3>
+          <p class="text-md lg:text-lg mt-2">
+            Ak dôjde k tomu najhoršiemu napr. <span class="font-semibold">pretáča kľučka</span> vieme rýchlo a bezproblémovo vymeniť aj vnútorné komponenty okna.
+          </p>
+        </div>
+        <div class="flex">
+          <img class="object-cover w-full h-52 rounded-md rounded-t-none" src="$lib/images/work_preview/oprava_kovania.jpg" alt="Oprava kovania">
+        </div>
+      </div>
+
+      <div class="bg-slate-100 max-w-lg rounded-xl mx-auto flex flex-col">
+        <div class="p-8 lg:p-12 flex-grow">
+          <h3 class="text-xl sm:text-2xl lg:text-3xl font-semibold">Základná starostlivosť</h3>
+          <p class="text-md lg:text-lg mt-2">
+            Tažšie sa Vám <span class="font-semibold">zatvára</span> alebo <span class="font-semibold">drhne</span> zo spodu okno. Bez pravidelnej starostlivosti riskujete <span class="font-semibold">záruku</span> a životnosť okna.
+          </p>
+        </div>
+        <div class="flex">
+          <img class="object-cover w-full h-52 rounded-md rounded-t-none" src="$lib/images/work_preview/servis_okna.jpg" alt="Servis okna">
+        </div>
+      </div>
+  
+      <div class="bg-slate-100 max-w-lg rounded-xl mx-auto flex flex-col">
+        <div class="p-8 lg:p-12 flex-grow">
+          <h3 class="text-xl sm:text-2xl lg:text-3xl font-semibold">Výmena starého tesnenia</h3>
+          <p class="text-md lg:text-lg mt-2">
+            Doprajte si pokoj od neustáleho <span class="font-semibold">prefukovania</span> a rušivých zvukov z ulice. Tesnenie časom stráca svoju životnosť, <span class="font-semibold">praská</span> a tvrdne.
+          </p>
+        </div>
+        <div class="flex">
+          <img class="object-cover w-full h-52 rounded-md rounded-t-none" src="$lib/images/work_preview/vymena_tesnenia.jpg" alt="Výmena tesnenia">
+        </div>
+      </div>
     </div>
-    <!-- End Background Color -->
   </div>
 </div>
-<!-- End Features -->

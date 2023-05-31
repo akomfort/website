@@ -1,5 +1,5 @@
 <!-- Card Blog -->
-<div class="max-w-[85rem] md:my-8 px-4 py-8 sm:px-6 lg:px-8 lg:py-10 mx-auto bg-slate-50 rounded-md">
+<div class="max-w-[85rem] my-8 mt-12 px-4 py-8 sm:px-6 lg:px-8 lg:py-10 mx-auto bg-slate-50 rounded-md">
   <!-- Grid -->
   <div class="grid sm:grid-cols-2 sm:items-center gap-8">
     
@@ -17,7 +17,7 @@
 
       <h2 class="font-bold text-2xl lg:text-4xl lg:leading-tight xl:leading-tight text-gray-800 dark:text-gray-200">
         <a class="hover:text-blue-600 dark:text-gray-300 dark:hover:text-white" href="#">
-          Rozsiahly servis okien na intrákoch v Bratislave
+          Ako sa nám podarilo predĺžiť životnosť desiatkam oknám? 
         </a>
       </h2>
 
