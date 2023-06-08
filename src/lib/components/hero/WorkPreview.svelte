@@ -1,6 +1,6 @@
 <div class="relative z-10 max-w-[85rem] px-4 py-4 sm:px-6 lg:px-8 mx-auto mt-6">
   <div class="p-4 lg:p-8 rounded-md">
-    <h2 class="block text-2xl font-bold text-gray-800 sm:text-3xl lg:text-4xl lg:leading-tight dark:text-white text-center mb-8 lg:mb-12">Čomu sa <span class="border-solid border-b-[6px] border-blue-500">venujeme</span></h2>
+    <h2 class="block text-2xl font-bold text-gray-800 sm:text-3xl lg:text-4xl lg:leading-tight  text-center mb-8 lg:mb-12">Čomu sa <span class="border-solid border-b-[6px] border-blue-500">venujeme</span></h2>
 
     <div class="grid gap-8 lg:gap-12 lg:grid-cols-2">
 

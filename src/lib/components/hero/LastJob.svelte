@@ -11,12 +11,12 @@
     <!-- End Col -->
 
     <div class="max-sm:order-1">
-      <p class="mb-5 inline-flex items-center gap-1.5 py-1.5 px-3 rounded-md text-lg font-medium bg-gray-100 text-gray-800 dark:bg-gray-800 dark:text-gray-200">
+      <p class="mb-5 inline-flex items-center gap-1.5 py-1.5 px-3 rounded-md text-lg font-medium bg-gray-100 text-gray-800  ">
         Jeden z posledných projektov
       </p>
 
-      <h2 class="font-bold text-2xl lg:text-4xl lg:leading-tight xl:leading-tight text-gray-800 dark:text-gray-200">
-        <a class="hover:text-blue-600 dark:text-gray-300 dark:hover:text-white" href="#">
+      <h2 class="font-bold text-2xl lg:text-4xl lg:leading-tight xl:leading-tight text-gray-800 ">
+        <a class="hover:text-blue-600  " href="#">
           Ako sa nám podarilo predĺžiť životnosť desiatkam oknám? 
         </a>
       </h2>
@@ -28,7 +28,7 @@
         </div>
 
         <div class="ml-3 sm:ml-4">
-          <p class="sm:mb-1 font-semibold text-gray-800 dark:text-gray-200">
+          <p class="sm:mb-1 font-semibold text-gray-800 ">
             Študentský domov Dowina
           </p>
           <p class="text-xs text-gray-500">

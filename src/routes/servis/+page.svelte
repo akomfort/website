@@ -16,7 +16,7 @@
 
     <div class="p-4 bg-white border-2 border-dashed border-black lg:text-xl rounded-md font-semibold mt-4">
         Ak chcete vyriešiť problém týkajuc sa okien, dohodnite si 
-            <a class="ml-2 inline-flex justify-center items-center gap-x-2 text-center bg-blue-600 hover:bg-blue-700 border border-transparent text-white text-sm rounded-md focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2 focus:ring-offset-white transition py-2.5 px-3 dark:focus:ring-offset-gray-800" href="/obhliadka/">
+            <a class="ml-2 inline-flex justify-center items-center gap-x-2 text-center bg-blue-600 hover:bg-blue-700 border border-transparent text-white text-sm rounded-md focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2 focus:ring-offset-white transition py-2.5 px-3 " href="/obhliadka/">
                 Bezplatnú obhliadku
             </a>
     </div>

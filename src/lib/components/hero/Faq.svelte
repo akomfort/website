@@ -3,11 +3,11 @@
 <div class="max-w-[85rem] px-4 pt-10 pb-20 sm:px-6 lg:px-8 lg:pt-16 lg:pb-28 mx-auto">
   <!-- Title -->
   <div class="max-w-2xl mx-auto mb-10 lg:mb-14">
-    <h2 class="text-2xl font-bold md:text-4xl md:leading-tight dark:text-white">Časté otázky</h2>
+    <h2 class="text-2xl font-bold md:text-4xl md:leading-tight ">Časté otázky</h2>
   </div>
   <!-- End Title -->
 
-  <div class="max-w-2xl mx-auto divide-y divide-gray-200 dark:divide-gray-700">
+  <div class="max-w-2xl mx-auto divide-y divide-gray-200 ">
     <div class="py-8 first:pt-0 last:pb-0">
       <div class="flex gap-x-5">
         <svg class="flex-shrink-0 mt-1 w-6 h-6 text-gray-500" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
@@ -16,7 +16,7 @@
         </svg>
 
         <div>
-          <h3 class="md:text-lg font-semibold text-gray-800 dark:text-gray-200">
+          <h3 class="md:text-lg font-semibold text-gray-800 ">
             Potrebujem servis, keď nemám viditeľný problém ?
           </h3>
           <p class="mt-1 text-gray-500">
@@ -34,7 +34,7 @@
         </svg>
 
         <div>
-          <h3 class="md:text-lg font-semibold text-gray-800 dark:text-gray-200">
+          <h3 class="md:text-lg font-semibold text-gray-800 ">
             Je obhliadka okien naozaj bezplatná a nezáväzná?
           </h3>
           <p class="mt-1 text-gray-500">
@@ -52,7 +52,7 @@
         </svg>
 
         <div>
-          <h3 class="md:text-lg font-semibold text-gray-800 dark:text-gray-200">
+          <h3 class="md:text-lg font-semibold text-gray-800 ">
             Čo ovplyvňuje stav okien?
           </h3>
           <p class="mt-1 text-gray-500">

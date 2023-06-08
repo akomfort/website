@@ -2,7 +2,7 @@
 <div class="relative z-10 max-w-[85rem] px-4 pt-8 sm:px-6 lg:px-8 lg:pt-12 mx-auto">
     <!-- Title -->
     <div class="w-2/3 sm:w-1/2 lg:w-1/3 mx-auto text-center">
-      <span class="text-gray-600 dark:text-gray-400 font-bold">Spolupracujeme s:</span>
+      <span class="text-gray-600  font-bold">Spolupracujeme s:</span>
     </div>
     <!-- End Title -->
   
