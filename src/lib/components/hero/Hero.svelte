@@ -8,7 +8,7 @@
 
             <!-- Waves -->
             <div class="absolute">
-                <img src="$lib/images/waves.png" class="-z-10 top-0 left-0 -translate-y-1/2 select-none">
+                <img src="$lib/images/waves.png" alt="vlny" class="-z-10 top-0 left-0 -translate-y-1/2 select-none">
             </div>
 
             <!-- Buttons -->

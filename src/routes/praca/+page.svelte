@@ -1,3 +1,8 @@
+<svelte:head>
+    <title>aKomfort - Ponuka práce</title>
+	<meta name="robots" content="noindex">
+</svelte:head>
+
 <div class="max-w-[85rem] mx-auto px-8 sm:px-12 lg:px-16 lg:pt-20 pt-12 pb-32 bg-gray-50 rounded-t-3xl">
     <h1 class="text-4xl lg:text-5xl font-bold">Ponuka práce</h1>
     <div class="flex mt-10 mb-6">

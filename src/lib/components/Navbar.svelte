@@ -13,16 +13,16 @@
     <div class="flex justify-between sm:justify-start max-w-[85rem] mx-auto px-6 lg:px-12 text-white text-md md:text-lg font-bold gap-6">
         <span class="hidden sm:inline-block">Po-So 8:00 - 20:00</span>
         <div class="flex">
-            <div class="inline-block m-auto max-sm:hidden">
-                <img class="w-full h-6" src="$lib/images/call.png" alt="Volať">
-            </div>
-            <a class="" href="tel:+421944559829">+421 944 559 829</a>
-        </div>
-        <div class="flex">
             <div class="inline-block m-auto pr-1 max-sm:hidden">
                 <img class="w-full h-6" src="$lib/images/mail.png" alt="Email">
             </div>
             <a class="" href="mailto:info@akomfort.sk">info@akomfort.sk</a>
+        </div>
+        <div class="flex">
+            <div class="inline-block m-auto">
+                <img class="w-full h-6" src="$lib/images/call.png" alt="Volať">
+            </div>
+            <a class="" href="tel:+421944559829">+421 944 559 829</a>
         </div>
     </div>
 </div>

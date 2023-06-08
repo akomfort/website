@@ -1,3 +1,8 @@
+<svelte:head>
+  <title>aKomfort - Bezplatná obhliadka</title>
+	<meta name="robots" content="noindex">
+</svelte:head>
+
 <div class="max-w-[60rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto mt-12 bg-slate-100 rounded-xl rounded-b-none">
     <div class="max-w-xl mx-auto">
       <div class="text-center">
@@ -8,7 +13,7 @@
 
       <div class="flex items-center mt-5 flex-col">
         <div class="rounded-2xl overflow-hidden">
-            <img class="w-[30rem] object-cover object-bottom" src="$lib/images/mapa.png" alt="Mapa Bratislavského kraja">
+            <img class="w-[30rem] object-cover object-bottom" src="$lib/images/mapa.png" alt="Mapa Slovenska">
         </div>
         <p class="italic text-lg lg:text-xl font-bold">Robíme servis na celom Slovensku</p>
       </div>

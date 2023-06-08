@@ -7,6 +7,12 @@
     import Problems from "$lib/components/hero/Problems.svelte";
 </script>
 
+<svelte:head>
+    <title>aKomfort - Servis okien</title>
+	<meta name="description" content="Desiatkám klientom denne poskytujeme kvalitnú a férovú starostlivosť o okná, dvere, žalúzie.">
+    <meta name="keywords" content="servis okien,oprava okna,zaluzie,sietky,rolety,kovanie">
+</svelte:head>
+
 <Hero></Hero>
 
 <Testimonials></Testimonials>

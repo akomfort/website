@@ -1,3 +1,7 @@
+<svelte:head>
+    <title>aKomfort - Tienenie</title>
+</svelte:head>
+
 <div class="max-w-[85rem] mx-auto px-8 sm:px-12 lg:px-16 lg:pt-20 pt-12 pb-32 bg-gray-50 rounded-t-3xl">
     <h1 class="text-4xl lg:text-5xl font-bold">Rolety a žalúzie</h1>
     <div class="text-xl md:text-2xl mt-12">
@@ -15,7 +19,7 @@
 
     <div class="p-4 bg-white border-2 border-dashed border-black lg:text-xl rounded-md font-semibold mt-4">
         Ak máte záujem o rolety alebo žalúzie vrátane servisu, dohodnite si 
-            <a class="ml-2 inline-flex justify-center items-center gap-x-2 text-center bg-blue-600 hover:bg-blue-700 border border-transparent text-white text-sm rounded-md focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2 focus:ring-offset-white transition py-2.5 px-3 " href="/obhliadka/">
+            <a class="max-sm:mt-4 ml-2 inline-flex justify-center items-center gap-x-2 text-center bg-blue-600 hover:bg-blue-700 border border-transparent text-white text-sm rounded-md focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2 focus:ring-offset-white transition py-2.5 px-3 " href="/obhliadka/">
                 Bezplatnú obhliadku
             </a>
     </div>
