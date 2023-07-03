@@ -3,7 +3,7 @@
 	<meta name="robots" content="noindex">
 </svelte:head>
 
-<div class="max-w-[85rem] mx-auto px-8 sm:px-12 lg:px-16 lg:pt-20 pt-12 pb-32 bg-gray-50 rounded-t-3xl">
+<div class="max-w-[85rem] mx-auto px-4 sm:px-12 lg:px-16 lg:pt-20 pt-12 pb-32 bg-gray-50 rounded-t-3xl">
     <h1 class="text-4xl lg:text-5xl font-bold">Ponuka práce</h1>
     <div class="flex mt-10 mb-6">
         <div class="p-4 bg-white border-2 border-dashed border-black lg:text-xl rounded-md font-semibold">
@@ -11,11 +11,11 @@
         </div>
     </div>
     <div class="space-y-10">
-        <div class="border-l-8 border-blue-500 bg-white rounded-md p-6">
+        <div class="border-l-8 border-blue-500 bg-white rounded-md p-3 sm:p-6">
 
             <h2 class="text-2xl lg:text-3xl font-bold">Anketár - brigáda</h2>
 
-            <div class="ml-4 mt-6 space-y-2 text-xl lg:text-2xl">
+            <div class="sm:ml-4 mt-6 space-y-2 text-xl lg:text-2xl">
 
                 <div class="flex flex-row justify-start items-end">
                     <div class="inline-block mr-4">

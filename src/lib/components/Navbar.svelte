@@ -10,7 +10,7 @@
 </script>
 
 <div class="bg-blue-600 py-2 sticky top-0 z-50">
-    <div class="flex justify-between sm:justify-start max-w-[85rem] mx-auto px-6 lg:px-12 text-white text-md md:text-lg font-bold gap-6">
+    <div class="flex justify-between sm:justify-start max-w-[85rem] mx-auto px-2 sm:px-6 lg:px-12 text-white text-md md:text-lg font-bold gap-6">
         <span class="hidden sm:inline-block">Po-So 8:00 - 20:00</span>
         <div class="flex">
             <div class="inline-block m-auto pr-1 max-sm:hidden">
@@ -20,9 +20,9 @@
         </div>
         <div class="flex">
             <div class="inline-block m-auto">
-                <img class="w-full h-6" src="$lib/images/call.png" alt="Volať">
+                <img class="w-full sm:h-6 h-5" src="$lib/images/call.png" alt="Volať">
             </div>
-            <a class="" href="tel:+421944559829">+421 944 559 829</a>
+            <a href="tel:+421944559829">+421 944 559 829</a>
         </div>
     </div>
 </div>
