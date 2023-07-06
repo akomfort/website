@@ -19,21 +19,21 @@
 
                 <div class="flex flex-row justify-start items-end">
                     <div class="inline-block mr-4">
-                        <img class="w-full h-8" src="$lib/images/job_offer/location.png" alt="Lokácia">
+                        <img class="w-8 h-auto" src="$lib/images/job_offer/location.png" alt="Lokácia">
                     </div>
                     <span class="pb-[0.5px]">Bratislava</span>
                 </div>
 
                 <div class="flex flex-row justify-start items-end">
                     <div class="inline-block mr-4">
-                        <img class="w-full h-8" src="$lib/images/job_offer/clock.png" alt="Čas">
+                        <img class="w-8 h-auto" src="$lib/images/job_offer/clock.png" alt="Čas">
                     </div>
                     <span class="pb-[0.5px]">18-20:00 hod</span>
                 </div>
 
                 <div class="flex flex-row justify-start items-end">
                     <div class="inline-block mr-4">
-                        <img class="w-full h-8" src="$lib/images/job_offer/euro.png" alt="Peniaze">
+                        <img class="w-8 h-auto" src="$lib/images/job_offer/euro.png" alt="Peniaze">
                     </div>
                     <span class="pb-[0.5px]">12.5 eur/hod</span>
                 </div>
